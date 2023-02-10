@@ -305,3 +305,11 @@ ion-icon {
   color: black;
 }
 
+.salvo {
+  background-color: gray;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
